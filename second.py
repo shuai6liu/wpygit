@@ -5,3 +5,4 @@ b = b ^ a
 a = a ^ b
 print(a)
 print(b)
+print('交换两个数')
